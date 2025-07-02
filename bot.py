@@ -314,7 +314,7 @@ def main():
     
     if not token:
         print("❗ Error: TELEGRAM_BOT_TOKEN environment variable not found!")
-        print("Please set your bot token:")
+        print("5384719653:AAFQhoSt8G6d4SZoecKhOG3D5KrCtIr4JOk")
         print("export TELEGRAM_BOT_TOKEN='your_bot_token_here'")
         return
     
